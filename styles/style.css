@@ -215,4 +215,7 @@
     .footer {
         flex-direction: column;
     }
+    .banner-text-container {
+        padding: 0;
+    }
 }
