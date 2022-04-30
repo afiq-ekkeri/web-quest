@@ -209,4 +209,7 @@
     .usp-section .container {
         flex-direction: column;
     }
+    .grid-container {
+        flex-wrap: wrap;
+    }
 }
