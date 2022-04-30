@@ -212,4 +212,7 @@
     .grid-container {
         flex-wrap: wrap;
     }
+    .footer {
+        flex-direction: column;
+    }
 }
